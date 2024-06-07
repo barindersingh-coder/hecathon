@@ -1,1 +1,1 @@
-# hecathon
+# heckathon
